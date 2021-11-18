@@ -1,0 +1,61 @@
+body{
+	background-image: url(iamsos.jpg);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	border-radius: 10px;
+	border: 5px solid #2370a5;
+	width: 80%;
+	height: 20px solid #fff;
+	padding: 20px;
+	margin: 20px auto;
+	max-width: 700px;
+	font-family: 'Recursive', sans-serif;
+}
+
+hr{
+	color: #D0D3D4;
+  margin-top: 0.5em;
+  margin-bottom: 1.5em;
+  margin-left: auto;
+  margin-right: auto;
+  border-style: solid;
+  border-radius: 5px;
+  height: 2px;
+  background-color: #D0D3D4;
+}
+
+.demon0{
+	border: px solid #fff;
+}
+
+.demon1{
+	padding-top: 5px;
+	border: solid #D0D3D4;
+	border-radius: 5px;
+}
+
+.demon2{
+	border-left: 4px solid #2370a5;
+	padding: 5px;
+	border-radius: 8px;
+	letter-spacing: 0.1rem;
+	line-height: 25px;
+
+}
+
+.demon3{
+	line-height: 25px;
+	letter-spacing: 0.01rem;
+}
+
+.demon4{
+	line-height: 25px;
+	letter-spacing: 0.01rem;
+}
+
+.demon5{
+	line-height: 25px;
+	letter-spacing: 0.01rem;
+}
